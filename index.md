@@ -696,6 +696,7 @@ Infinite machine
 - [Protocols Labs](https://protocol.ai/join/)
 - [Consensys](https://consensys.net)
 
+## Project Brief
 
 ## Learning Outcomes
 
