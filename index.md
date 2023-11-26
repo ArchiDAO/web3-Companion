@@ -571,10 +571,14 @@ Interesting to read as Buterin goes through the internal thought process of crea
     * [NFT School](https://nftschool.dev/)
   - Other token Standards
   - ERC777
+  * [ERC777 at openzeppelin](https://docs.openzeppelin.com/contracts/3.x/erc777)
 
 
   ## Token Engineering 
     * [Token engineering academy](https://tokenengineering.net/)
+    * [Token Simulations]
+    * [Token engineering Frameworks]
+    * [Ostrom Principles]
 
 ##  Developers on YouTube
   - [Eat The Blocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
@@ -705,8 +709,8 @@ By Following the Companion,  learners will be able to **show evidence** of:
 5. Build, Deploy and showcase a decentralised application on Ethereum.
 '''
 
-Indicative  Workload: Minimum 10 hours per week, with at least 4 hours per week hands-on practice.
-Recommended  Workload: 20 hours per week, with 10 hours per week devoted to hands-on practice.
+Indicative  Workload: Minimum 10 hours per week, with at least 4 hours per week hands-on practice, for 12 weeks
+Recommended  Workload: 20 hours per week, with 10 hours per week devoted to hands-on practice, for 12 weeks.
 
 
 _maintained by_
