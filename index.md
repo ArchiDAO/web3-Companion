@@ -464,7 +464,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 
 ## Testing & Debugging
-//: # (add more good links here)
+[//]: # (add more good links here)
 
 - Why test?
   * [What is unit testing?](https://smartbear.com/learn/automated-testing/what-is-unit-testing/)
@@ -499,7 +499,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Re-entrancy example
 
 ## Full Learning Guides
-- Alchemy University
+
 * [Alchemy University](https://university.alchemy.com/home)
 
 # Frameworks
@@ -628,7 +628,19 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Ethereum 2
 - Sharding
 - How to set up an ethereum 2 node
+  * [spin up your own node](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
+
 - Ethereum 2 node software
+  * [Client divercity](https://ethereum.org/en/developers/docs/nodes-and-clients/client-diversity/)
+  * [node as a service](https://ethereum.org/en/developers/docs/nodes-and-clients/nodes-as-a-service/)
+- light nodes
+  * [nimbus](https://nimbus.team/)
+  * [helios](https://github.com/a16z/helios)
+  * [lodestar](https://lodestar.chainsafe.io/)
+
+
+## Ethereum Node Maps
+* [Node tracker](https://etherscan.io/nodetracker)
 
 ## Other smart contract langugages
 - [Vyper](https://vyper.readthedocs.io/en/stable/)
