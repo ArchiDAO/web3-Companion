@@ -30,7 +30,6 @@ Early version of this guide were developed as a companion to the AthensLabs Bloc
 - MacOS: Latest is v13 'Sonoma' (sep 2023)
   * _you need an Apple computer to run MacOS_
   * [MacOS Monterey](https://www.apple.com/uk/macos/monterey/)
-  * [MacOS Monterey](https://www.apple.com/by/macos/monterey/)
   * [MacOS Sonoma](https://www.apple.com/macos/sonoma/)
 
 
@@ -48,7 +47,7 @@ Early version of this guide were developed as a companion to the AthensLabs Bloc
   * [Remix](https://remix.ethereum.org)
   * [Remix-Desktop](https://github.com/ethereum/remix-desktop)
   * [ethfiddle](https://ethfiddle.com/)
-  * [Atom - no longer developed](https://atom.io/)
+  * [Pulsar - the successor to Atom](https://pulsar-edit.dev/)
   * [Visual studio Code](https://code.visualstudio.com/)
   * [MS Visual Studio Live share extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
   * [JetBrains Idea](https://www.jetbrains.com/idea)
