@@ -1,15 +1,14 @@
 ## Welcome to the ArchiDAO Ethereum Developer Companion
 
-Early version of this guide were developed as a companion to the AthensLabs Blockchain Developer Bootcamp 2022. We have been updating this guide for use of Blockchain in Architecture-Engineering-Construction, including upgrading tutorials on newer development frameworks. Still, some of the fundamentals on blockchains remain unchanged. The guide focuses on the Ethereum ecosystem, currently (Nov 2023) the most vibrant smart contract and blockchain development ecosystem.
-It is designed as a series of structured links and content that will provide you with the basic knowledge to develop decentralised applications. 
+Early version of this guide were developed as a companion to the AthensLabs Blockchain Developer Bootcamp 2022. We have been updating this guide for use of Blockchain in Architecture-Engineering-Construction, including upgrading tutorials on newer development frameworks. Still, some of the fundamentals on blockchains remain unchanged. The guide focuses on the Ethereum ecosystem, currently (Jan 2024) the most vibrant smart contract and blockchain development ecosystem. It is designed as a series of structured links and content that will provide you with the basic knowledge to develop decentralised applications.
 
-- The companion is used as a source of information on active learning that you have to develop, by designing, coding and deploying an actual decentralised application. 
+- The companion is used as a source of information on active learning that you have to develop, by designing, coding and deploying an actual decentralised application.
 
 
 ## Onboarding
 - [Consensys Basic Training](https://courses.consensys.net/courses/bootcamp-basic-training)
 - [Developer onboarding on Ethereum - Ethereum.org](https://ethereum.org/en/developers/docs/)
-- [Alchemy university - solidity](https://university.alchemy.com/overview/solidity)
+- [Alchemy uUniversity - solidity](https://university.alchemy.com/overview/solidity)
 
 
 ## Setting up a development environment
@@ -122,7 +121,7 @@ It is designed as a series of structured links and content that will provide you
   * [Cryptography in Wikipedia](https://en.wikipedia.org/wiki/Cryptography)
   * [Schneier on Cryptography](https://www.schneier.com/blog/archives/2016/03/cryptography_is.html)
   * [Schneir's Applied Cryptography online](https://www.schneier.com/blog/archives/2014/01/applied_cryptog_1.html)
-  * [Introduction to modern cryptosystems](https://www.giac.org/paper/gsec/2604/introduction-modern-cryptosystems/104482)  
+  * [Introduction to modern cryptosystems](https://www.giac.org/paper/gsec/2604/introduction-modern-cryptosystems/104482)
   * [Practical Cryptography](https://rizkia.staff.telkomuniversity.ac.id/files/2016/02/Practical-Cryptography-Niels-Ferguson-Bruce-Schneier.pdf)
   * [Overview of modern Cryptography](https://cryptobook.nakov.com/cryptography-overview)
 
@@ -251,7 +250,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   - Consortium Networks
   * [Create a private network](https://www.c-sharpcorner.com/article/setup-your-private-ethereum-network-with-geth2/)
 
-  
+
 
 - depreciated
   * [Kovan Test Network](https://kovan-testnet.github.io/website/)
@@ -301,7 +300,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
     - Truffle Boxes (Templates to base your project on)
       * [Truffle boxes](https://www.trufflesuite.com/boxes)
 
-  
+
 
 - Hardhat
   * [Hello world Tutorial with Hardhat](https://ethereum.org/en/developers/tutorials/waffle-say-hello-world-with-hardhat-and-ethers/)
@@ -412,7 +411,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Games
   * [CryptoZombies](https://cryptozombies.io/)
 
-- Guides  
+- Guides
   * [Ethereumdev.io](https://ethereumdev.io/)
   * [Solidity Developer](https://soliditydeveloper.com/blog)
   * [Ethereum Blockchain Developer](https://ethereum-blockchain-developer.com/)
@@ -455,7 +454,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Rimples examples](https://codesandbox.io/examples/package/rimble-ui)
 
 
-- Web3 libraries as frontends for smart contracts 
+- Web3 libraries as frontends for smart contracts
   * Web3.js [web3.js](https://web3js.readthedocs.io/en/v1.7.3/)
   * Ether.js [Ether.js](https://docs.ethers.io/v3/)
 
@@ -504,7 +503,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
 
 # Frameworks
 
-* Foundry 
+* Foundry
 * [Foundry](https://github.com/foundry-rs/foundry)
 * [Foundry book](https://book.getfoundry.sh/)
 
@@ -554,7 +553,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   - [What is a DAO](https://ethereum.org/en/dao/)
     * [DAO concepts](https://archidao.substack.com/p/top-10-words-to-know-about-dao-decentralized)
 
-  - DAO Frameworks:  
+  - DAO Frameworks:
     * [DAOStack](https://daostack.io/)
     * [Aragon](https://aragon.org/)
     * [Colony](https://colony.io/)
@@ -566,7 +565,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
     * [How to create your own ERC-20 in an hour - Verified](https://steemit.com/ethereum/@maxnachamkin/how-to-create-your-own-ethereum-token-in-an-hour-erc20-verified)
     * [dAPP university: create your own Cryptocurrency in Ethereum](https://www.dappuniversity.com/articles/code-your-own-cryptocurrency-on-ethereum)
     * [OpenZeppelin - ERC-20 supplies](https://docs.openzeppelin.com/contracts/2.x/erc20-supply)
- 
+
       - ERC721
     * [NFT School](https://nftschool.dev/)
   - Other token Standards
@@ -574,7 +573,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [ERC777 at openzeppelin](https://docs.openzeppelin.com/contracts/3.x/erc777)
 
 
-  ## Token Engineering 
+  ## Token Engineering
     * [Token engineering academy](https://tokenengineering.net/)
     * [Token Simulations]
     * [Token engineering Frameworks]
