@@ -9,6 +9,7 @@ Early version of this guide were developed as a companion to the AthensLabs Bloc
 - [Consensys Basic Training](https://courses.consensys.net/courses/bootcamp-basic-training)
 - [Developer onboarding on Ethereum - Ethereum.org](https://ethereum.org/en/developers/docs/)
 - [Alchemy uUniversity - solidity](https://university.alchemy.com/overview/solidity)
+- [Cyfrin Updraft](https://updraft.cyfrin.io/courses)
 
 
 ## Setting up a development environment
@@ -123,6 +124,7 @@ Early version of this guide were developed as a companion to the AthensLabs Bloc
   * [Introduction to modern cryptosystems](https://www.giac.org/paper/gsec/2604/introduction-modern-cryptosystems/104482)
   * [Practical Cryptography](https://rizkia.staff.telkomuniversity.ac.id/files/2016/02/Practical-Cryptography-Niels-Ferguson-Bruce-Schneier.pdf)
   * [Overview of modern Cryptography](https://cryptobook.nakov.com/cryptography-overview)
+  * [Lecture series on Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k&list=UU1usFRN4LCMcfIV7UjHNuQg&index=25)
 
 - Cryptographic Hash functions
   * [Secure hash algorithms](https://brilliant.org/wiki/secure-hashing-algorithms/)
@@ -546,6 +548,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   * [Build a Flash Loan Bot - Part 1](https://blog.infura.io/build-a-flash-loan-arbitrage-bot-on-infura-part-i/)
   * [Build a Flash Loan Bot - Part 2](https://blog.infura.io/build-a-flash-loan-arbitrage-bot-on-infura-part-ii/)
   * [Security Flaw Walkthroughs](https://rekt.news)
+  * [Decentralised Exchanges]
 
 
 ## Decentralised Autonomous Organisations  - DAOs 道
@@ -553,7 +556,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
     * [DAO concepts](https://archidao.substack.com/p/top-10-words-to-know-about-dao-decentralized)
 
   - DAO Frameworks:
-    * [DAOStack](https://daostack.io/)
+    * [DAOStack-depreciated](https://daostack.io/)
     * [Aragon](https://aragon.org/)
     * [Colony](https://colony.io/)
 
@@ -575,7 +578,7 @@ Interesting to read as Buterin goes through the internal thought process of crea
   ## Token Engineering
     * [Token engineering academy](https://tokenengineering.net/)
     * [Token Simulations]
-    * [Token engineering Frameworks]
+    * [Token Engineering Frameworks]
     * [Ostrom Principles]
 
 ##  Developers on YouTube
@@ -654,9 +657,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Decentralisation](https://policyreview.info/concepts/decentralisation)
 * [Hacker-engineers and Their Economies, by J.K.Brekke](https://www.tandfonline.com/doi/abs/10.1080/13563467.2020.1806223)
 
+## Academic papers
 
-## Cryptography
-- [Lecture series on Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k&list=UU1usFRN4LCMcfIV7UjHNuQg&index=25)
 
 
 ## Non-Fungible Tokens
@@ -676,8 +678,8 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - [Coindesk](https://www.coindesk.com/)
 - [Coin Telegraph](https://cointelegraph.com/)
 
-## Interesting Articles
-- [The New Creator Economy – DAOs, Community Ownership, and Cryptoeconomics](https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/)
+
+
 
 ## History
 Out of the Ether
