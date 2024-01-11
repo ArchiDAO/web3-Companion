@@ -34,11 +34,11 @@
   - Ethereum 2.0
 
 * Development Frameworks
-  - Truffle
-  - Setting up Truffle
+  - Foundry
+  - Setting up Foundry
   - Hardhat
   - Setting uo HardHat
-  - Brownie
+  - Brownie (for Pythonistas)
   - Setting up Brownie
 
 * Solidity Fundamentals
@@ -60,7 +60,13 @@
   - Examples I: Proof of Existence, Simple Bank, Supply Chains
   - Examples II: Voting, tokens
 
+
+
 * Token standards
+  - What is an EIP and an ERC?
+  - ERC20, 721 Examples
+  - ERC20, 721, 777 walkthroughs
+
 * Solidity Smart contract libraries and Design Patterns
 
 * Ethereum and the End user
@@ -72,7 +78,15 @@
 
 
 * Templates for Creating Dapps
-* Testing and Debugging
+
+
+* Testing Debugging Smart contracts
+  - Why test?
+  - Testing examples
+  - What do we avoid with a good testing suite - Quality Control
+  - Solidity tests
+  - Javascript tests
+  - Typescript tests
 
 Further afield:
 * Decentralised Finance
@@ -93,5 +107,5 @@ By Following the Companion, learners will be able to show evidence of:
 * Produce an evaluation of common security issues in smart contracts.
 * Build, Deploy and showcase a decentralised application on Ethereum. '''
 
-- Indicative Workload: Minimum 10 hours per week, with at least 4 hours per week hands-on practice. 
+- Indicative Workload: Minimum 10 hours per week, with at least 4 hours per week hands-on practice.
 - Recommended Workload: 20 hours per week, with 10 hours per week devoted to hands-on practice.
